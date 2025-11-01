@@ -2,6 +2,8 @@
 
 This project is a simple 2D pixel game created in **Godot 4.1.1**. The game focuses on managing a food counter where players serve burgers to characters. The core gameplay revolves around queue and stack data structures to simulate a restaurant environment.
 
+Video Demo https://youtu.be/T1l_9Er8bEI?si=PpCQBV5xKWA4vBVX
+
 ## Game Overview
 
 In this game, characters will move around a map and head to the food counter when they get hungry. Players must prepare and serve burgers based on each character's order. Here's how the game works:
